@@ -1,0 +1,7 @@
+A = int(input("Enter your Birthday : "))
+B = int(input("Enter your Birthday Month : "))
+C = int(input("Enter your Birthday Year : "))
+D = int(input("Enter your Now Year : "))
+E = (543)
+print(A,B,C)
+print(D - E)
